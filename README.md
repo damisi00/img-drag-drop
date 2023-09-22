@@ -11,12 +11,12 @@
     To access this app locally, you need to do the following :
 - Install node
 - Clone this repo
-    ```bashgit clone https://github.com/damisi00/img-drag-drop.git
+    ```bashgit clone https://github.com/damisi00/img-drag-drop.git```
 - navigate to the folder
-    ```bashcd img-drag-drop
+    ```bashcd img-drag-drop```
 - Run this
     ```bashnpm install
-    ```bashnpm run dev
+        npm run dev```
 - Open via on your browser
     http://localhost:5173/
     
