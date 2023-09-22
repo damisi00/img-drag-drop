@@ -9,17 +9,14 @@
 
 ## Installation
     To access this app locally, you need to do the following :
-- Install node
+- Install node & npm
 - Clone this repo
-
     git clone https://github.com/damisi00/img-drag-drop.git
 - navigate to the folder
-
     cd img-drag-drop
 - Run this
-
-        npm install
-        npm run dev
+    npm install
+    npm run dev
 - Open via on your browser
     http://localhost:5173/
     
