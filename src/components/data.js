@@ -15,7 +15,7 @@ import Lin from '../assets/lin.jpg';
 import Katara from '../assets/katara.jpg';
 import Jeong from '../assets/zuko.jpg';
 
- const images = [
+ const data = [
     {
         id: 1,
         faction: 'fire',
@@ -114,4 +114,4 @@ import Jeong from '../assets/zuko.jpg';
     },
 ];
 
-export default images;
+export default data;
