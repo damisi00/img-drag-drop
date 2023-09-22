@@ -7,9 +7,20 @@
  - Firebase (Authentication)
  - React-sortable(For functionalities related to the image drag & drop)
 
+## Test
+
+- Sign up to access the gallery
+    or
+    Login anonymously using:
+    
+    ```
+    email: user@example.com
+    password: 1Password
+    ```
+    
 ## Installation
     To access this app locally, you need to do the following :
-    
+
 - Install node & npm
 - Clone this repo
     ```
@@ -27,13 +38,6 @@
 - Open via on your browser
     http://localhost:5173/
     
-## Test
-    Sign up to access the gallery
-    or
-    Login anonymously using:
-    ```
-    email: user@example.com
-    password: 1Password
-    ```
+
 
 
